@@ -31,7 +31,7 @@ npm install nookies
 
 Create the following files in the `public` folder to set up the Google Translate configuration and initialization:
 
-#### `public/lang-config.js`
+#### `public/assets/scripts/lang-config.js`
 
 ```javascript
 window.__GOOGLE_TRANSLATION_CONFIG__ = {
